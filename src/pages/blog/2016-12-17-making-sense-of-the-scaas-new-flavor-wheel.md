@@ -1,32 +1,49 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: San Miguel de Allende Week 1
+date: 2019-02-08T15:04:10.000Z
+description: Shea update from Mexico!
 tags:
-  - flavor
-  - tasting
+  - makeshift
+  - neighbords
+  - tacos
 ---
+![tres amigos](/img/img_1361.jpg "Henrik, Petra and Mina sit patiently in front of a rustic doorway.")
 
-![flavor wheel](/img/flavor_wheel.jpg)
+Hi Family!
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Just wanted to send out an email update from our trip, since we aren't currently on social media.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+We have been in San Miguel de Allende for five days, and starting to feel somewhat settled in our home.  Chris has been to the big grocery store La Comer twice, which is like any grocery store you'd find in the US, with a little cafe in it.  So, we've got all the basics (food/toiletries) for the next week or so.  We've gotten TACOS a couple times, and found a realllly good place in town that is so yummy.  I'll include a picture Chris took of the guy cutting meat off a big stick thing.  I'm not sure what kind of meat it was...but it was good.
 
-## What the updates mean to you
+Chris's work is going well.  The internet is strong enough and he's set up a make-shift desk with an ironing board... He says he's had a productive week, so far.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+The kids are having a great time swimming in the neighborhood pool every day while Mina naps.  They get their school work done first thing in the morning, so they can be free to play for the rest of the day.  Mina still hasn't adjusted to sleeping well here, but she rarely sleeps well anyways.  ;) She had a little cold when we arrived, and is much better today.  I think maybe she's teething as well.  We have netflix in the living room, so she can watch Sesame Street and the kids can watch movies in the evenings.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+There is a sweet orange kitty that visits us every day.  Petra is calling him Ginger.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Oh, and I made a friend!  Her name is Deify (Day-fee), and she and her husband Daniel and toddler Joaquín (Wa-keen) live in our neighborhood.  She invited me to a moms' group in town on Monday afternoon, and is going to send me a list of fun things to do with kids nearby.  Our landlord is a really sweet and helpful lady named Lupita.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+I took all three kids (without Chris!) to town on Monday, and was surprised to find out it was a special holiday... lots and lots of tourists and Mexicans were in town and I was overwhelmed and hot.  We found a little restaurant in an inner patio garden and had some delicious smoothies for about $2 each.  Kids loved them!
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+We are planning to take the bus to town today for the first time--with Chris this time--and check out a big indoor market.  There are lots of shops and little restaurants inside, so we'll grab dinner there... I'm in the mood for enchiladas!
+
+The weather is pretty nice here--it's chilly in the mornings and night and hot in the afternoon (upper 70's).  Just warm enough to swim. =)  And thankfully, the house is always a comfortable temperature.  We haven't spotted any hummingbirds, unfortunately, despite hanging a feeder in the window.  The only birds we've seen around the house are Mexican Grackles--like our Grackles, but they have a super long tail (also called the Great-Tailed Grackle).  We also saw a cute lime-colored bird bathing in a fountain in town, outside of a very fancy hotel called the Rosewood. Not many bugs spotted!
+
+A pressing goal we have is to find a place to do our laundry--we don't have a way to do it here...besides manually.  I hand-washed some clothes today and I don't want to do that all the time.
+
+I'll send out a weeklyish email like this one to you all to keep you posted on our time here!
+
+xoxo Love you all!
+
+![neighborhood orange cat](/img/img_1332.jpg "Petra has a new friend.")
+
+![book or chromebook](/img/img_1348.jpg "Henrik chooses a book over the chromebook")
+
+![kids taking in the neighborhood view](/img/img_1359.jpg "Henrik and Petra inspecting the new grounds.")
+
+![a boy and his pool](/img/img_1403.jpg "All Henrik really wanted was a pool.")
+
+![more al pastor please](/img/la_brasilia_sma.jpg "A local chef slicing off the al pastor")
+
+![multi-purpose desk](/img/mexican_stand-up.png "This is nothing new for Chris.")
