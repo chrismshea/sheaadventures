@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: San Miguel de Allende Week 1
-date: 2019-02-08T15:04:10.000Z
+date: 2019-02-06T15:04:10.000Z
 description: Shea update from Mexico!
 tags:
   - makeshift
-  - neighbords
+  - neighborhood
   - tacos
 ---
 ![tres amigos](/img/img_1361.jpg "Henrik, Petra and Mina sit patiently in front of a rustic doorway.")
