@@ -16,9 +16,9 @@ export const IndexPageTemplate = ({
   intro,
   main,
 }) => (
-    <div>
-        <div
-          className="full-width-image margin-top-0"
+    //<div>
+    //    <div
+        //  className="full-width-image margin-top-0"
         //  style={{
         //    backgroundImage: `url(${
         //      !!image.childImageSharp
@@ -28,7 +28,7 @@ export const IndexPageTemplate = ({
         //    backgroundPosition: `top left`,
         //    backgroundAttachment: `fixed`,
         //  }}
-    >
+    //>
   <div style={{
         display: 'flex',
         height: '150px',
