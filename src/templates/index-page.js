@@ -168,9 +168,7 @@ query IndexPageTemplate {
           }
         }
         heading
-        """
-        subheading
-        """
+        #subheading
         mainpitch {
           title
           description
