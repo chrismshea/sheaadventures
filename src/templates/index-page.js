@@ -169,11 +169,11 @@ query IndexPageTemplate {
         }
         heading
         #subheading
-        mainpitch {
-          title
-          description
+        #mainpitch {
+        #  title
+        #  description
         }
-        description
+        #description
         intro {
           blurbs {
             image {
