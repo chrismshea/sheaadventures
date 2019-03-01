@@ -3,18 +3,18 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+//import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
-  main,
+  //title,
+  //heading,
+  //subheading,
+  //mainpitch,
+  //description,
+  //intro,
+  //main,
 }) => (
     <div>
         <div
@@ -29,6 +29,7 @@ export const IndexPageTemplate = ({
             backgroundAttachment: `fixed`,
           }}
     >
+  {/*
   <div style={{
         display: 'flex',
         height: '150px',
@@ -60,6 +61,7 @@ export const IndexPageTemplate = ({
         {subheading}
       </h3>
       </div>
+        */}
     </div>
   <section className="section section--gradient">
     <div className="container">
@@ -67,6 +69,7 @@ export const IndexPageTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
+              {/*}
               <div className="content">
                 <div className="tile">
                   <h1 className="title">{mainpitch.title}</h1>
@@ -91,9 +94,10 @@ export const IndexPageTemplate = ({
                 </Link>
                 </div>
               </div>
+              */}
               <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Latest updates
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">

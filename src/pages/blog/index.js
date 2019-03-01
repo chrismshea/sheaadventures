@@ -14,9 +14,10 @@ export default class BlogIndexPage extends React.Component {
             <div
                 className="full-width-image-container margin-top-0"
                 style={{
-                  backgroundImage: `url('/img/blog-index.jpg')`,
+                  backgroundImage: `url('/img/img_1403.jpg')`,
                 }}
               >
+              {/*}
                 <h1
                   className="has-text-weight-bold is-size-1"
                   style={{
@@ -26,8 +27,9 @@ export default class BlogIndexPage extends React.Component {
                     padding: '1rem',
                   }}
                 >
-                  Latest Stories
+                  Latest Updates
                 </h1>
+                */}
               </div>
             </div>
               <BlogRoll />
