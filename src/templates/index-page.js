@@ -172,7 +172,7 @@ query IndexPageTemplate {
         #mainpitch {
         #  title
         #  description
-        }
+        #}
         #description
         intro {
           blurbs {
