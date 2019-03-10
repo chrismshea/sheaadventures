@@ -37,3 +37,22 @@ Em
 P.S.  Thanks to Chris and Simi for changing the cat litter and vacuuming downstairs!  And thanks, Mom, for having Romeo groomed!
 
 And here's a ton of pictures!
+![](/img/img_2411.jpg)
+![](/img/img_2438.jpg)
+![](/img/img_2456.jpg)
+![](/img/img_2471.jpg)
+![](/img/img_2485.jpg)
+![](/img/img_2493.jpg)
+![](/img/img_2500.jpg)
+![](/img/img_2510.jpg)
+![](/img/img_2540.jpg)
+![](/img/img_2576.jpg)
+![](/img/img_2583.jpg)
+![](/img/img_2596.jpg)
+![](/img/img_2642.jpg)
+![](/img/img_2658.jpg)
+![](/img/img_2673.jpg)
+![](/img/img_2678.jpg)
+![](/img/img_2684.jpg)
+![](/img/img_2709.jpg)
+![](/img/img_2747.jpg)
