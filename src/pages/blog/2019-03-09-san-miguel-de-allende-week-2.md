@@ -6,14 +6,6 @@ description: Mexico update!
 tags:
   - ''
 ---
-
-
-
-
-
-
-
-
 ![](/img/h_biblioteca_sma.jpg)
 
 Hi everyone!
