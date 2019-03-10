@@ -6,6 +6,16 @@ description: Mexico update!
 tags:
   - ''
 ---
+
+
+
+
+
+
+
+
+![](/img/h_biblioteca_sma.jpg)
+
 Hi everyone!
 
 I had such a nice time with Henrik and Petra this afternoon.  We took an Uber (hired car) to the public library.  There was amazing art everywhere--paintings on ceilings, sculptures and paintings--and I loved the stone walls and floors. The first book I saw was one titled My Name is Mina and I Love the Night. It was the only one sitting on a large table as we entered the children's area.  I found this coincidental because I have had this book in my amazon cart for months!
@@ -25,3 +35,17 @@ Here are some pics from today's excursion with the big kids!
 Love you all!
 
 xoxoxo
+
+![](/img/st_biblioteca_kids.jpg)
+
+![](/img/petra_cafe_santa_ana.jpg)
+
+![](/img/cafe_santa_ana.jpg)
+
+![](/img/popupcards_p_sma.jpg)
+
+![](/img/skeleton_art_biblioteca.jpg)
+
+![](/img/biblioteca_sma.jpg)
+
+![](/img/h_p_taxi_sma.jpg)
