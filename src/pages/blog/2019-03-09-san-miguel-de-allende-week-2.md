@@ -6,7 +6,7 @@ description: Mexico update!
 tags:
   - ''
 ---
-![](/img/h_biblioteca_sma.jpg)
+![H in wonder](/img/h_biblioteca_sma.jpg "H Admiring Ceiling Art")
 
 Hi everyone!
 
